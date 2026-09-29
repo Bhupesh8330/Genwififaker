@@ -1,0 +1,3 @@
+scapy>=2.4.5
+faker>=18.0.0
+colorama>=0.4.6
